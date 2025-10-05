@@ -1,4 +1,4 @@
-# Hi, I'm <Haider>! 👋
+# Hi, I'm Haider! 👋
 
 ![6haiderm's Stats](https://github-readme-stats.vercel.app/api?username=6haiderm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
